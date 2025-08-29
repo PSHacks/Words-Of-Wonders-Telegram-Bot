@@ -31,7 +31,7 @@ npm install
 pip install -r requirements.txt
 ```
 
-Файл `requirements.txt` (можно добавить в репозиторий):
+Файл `requirements.txt`:
 ```
 requests
 beautifulsoup4
