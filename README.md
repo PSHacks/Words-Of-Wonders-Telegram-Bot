@@ -16,7 +16,7 @@
 ### 1. Клонируем репозиторий
 ```bash
 git clone https://github.com/PSHacks/Words-Of-Wonders-Telegram-Bot
-cd wow-bot
+cd Words-Of-Wonders-Telegram-Bot
 ```
 
 ### 2. Устанавливаем зависимости для бота
