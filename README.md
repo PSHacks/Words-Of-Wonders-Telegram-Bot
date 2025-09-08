@@ -15,7 +15,7 @@
 
 ### 1. Клонируем репозиторий
 ```bash
-git clone https://github.com/username/wow-bot.git
+git clone https://github.com/PSHacks/Words-Of-Wonders-Telegram-Bot
 cd wow-bot
 ```
 
